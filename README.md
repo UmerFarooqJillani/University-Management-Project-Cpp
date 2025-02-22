@@ -27,7 +27,7 @@ Additionally, Singly Linked Lists and Stacks are implemented to handle dynamic m
 
 
 ## 📸 Screenshots  
-<p align="center"> **User-Friendly CLI** </p> 
+<p align="center">User-Friendly CLI</p> 
   <img src="assets/images/CLI.png" alt="CLI Screenshot">  
 
 ## 📌 Author
